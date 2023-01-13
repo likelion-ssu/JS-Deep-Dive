@@ -6,6 +6,9 @@
 
 메모리는 데이터를 저장할 수 있는 메모리 셀의 집합체이다.
 
+<img src="https://user-images.githubusercontent.com/66757141/212366880-e8c326bf-213a-4c69-a681-850c2dd33ff6.png" alt="memory_cell" width="360px" /><br/>
+_[image reference](https://velog.io/@chillihc/JavaScript-모던-자바스크립트-Deep-Dive로-배우는-JS-3-자바스크립트-개발-환경과-실행-방법-ytv11p6z)_
+
 ## 4.1 변수
 
 CPU를 사용해 연산하고 메모리를 사용해 기억한다.
@@ -24,6 +27,10 @@ CPU를 사용해 연산하고 메모리를 사용해 기억한다.
 그래서 프로그래밍 언어는 변수라는 메커니즘을 제공하여 메모리에
 
 변수란
+
+<img src="https://user-images.githubusercontent.com/66757141/212366913-43851008-c858-4776-8925-30ded9877fb2.png" alt="memory_assign" width="500px" /><br/>
+_[image reference](https://velog.io/@chillihc/JavaScript-모던-자바스크립트-Deep-Dive로-배우는-JS-3-자바스크립트-개발-환경과-실행-방법-ytv11p6z)_
+
 
 변수 이름
 변수 값
