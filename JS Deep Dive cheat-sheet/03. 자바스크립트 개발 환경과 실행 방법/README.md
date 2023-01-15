@@ -16,7 +16,6 @@
     - 파일 시스템 제공 X (Web API - FileReader 객체 사용하는 방법 사용 필요)
     - _클라이언트 사이드 web API_ 제공
         - ex. `ECMAScript`, `DOM`, `BOM`, `Canvas`, `XMLHttpRequest`, `fetch`, `requestAnimationFrame`, `SVG`, `Web Storage`, `Web Component`, `Web Worker`, ...  
-
 - **Node.js**
     - _브라우저 외부에서 자바스크립트 실행 환경을 제공_ 하는 것이 주된 목적
     - DOM API 제공 X (브라우저 외부 환경에서 HTML 요소를 파싱해 객체화한 DOM을 직접 다룰 필요가 없으므로)
