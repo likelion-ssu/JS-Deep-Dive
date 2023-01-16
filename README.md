@@ -3,7 +3,6 @@
 
 ## 🏄🏻‍♂️ Collaborators
 > 본 스터디는 숭실대학교 멋쟁이사자처럼 10기 멤버로 구성되어 있습니다.
-> 본 스터디는 GDSC SSU 2nd 멤버분들로 구성되어 있습니다.
 <p>
 <a href="https://github.com/Sang-minKIM">
     <img src="https://github.com/Sang-minKIM.png" width="90">
