@@ -46,17 +46,15 @@
 
   ```javascript
   //템플릿 리터럴 멀티라인 문자열
-  let text = `Hello
-  world`
+  let text = `Hello world`;
 
   //일반에서는 적용이 안된다.
-  let text = 'Hello
-  world';
+  let text = "Hello world";
 
   //표현식 삽입
-  const name = 'jaemin'
+  const name = "junkyu";
 
-  let text = `Hello ${name}, good!`
+  let text = `Hello ${name}, good!`;
   ```
 
 ### 심벌 타입
