@@ -60,7 +60,7 @@
 |**CH.12**|📚 함수|
 |**CH.13**|📚 스코프|
 |**CH.14**|📚 전역 변수의 문제점|
-|**CH.15**|📚 let, const 키워드와 블록 레벨 스코프|
+|**CH.15**|[📚 let, const 키워드와 블록 레벨 스코프](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/15_let%2C%20const%20키워드와%20블록%20레벨%20스코프.md.md)|
 |**CH.16**|📚 프로퍼티 어트리뷰트|
 |**CH.17**|📚 생성자 함수에 의한 객체 생성|
 |**CH.18**|📚 함수와 일급 객체|
