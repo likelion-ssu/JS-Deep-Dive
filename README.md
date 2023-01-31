@@ -54,12 +54,12 @@
 |**CH.06**|[📚 데이터 타입](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/06_%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85.md)|
 |**CH.07**|📚 연산자|
 |**CH.08**|[📚 제어문](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/08_제어문.md)|
-|**CH.09**|📚 타입 변환과 단축 평가|
-|**CH.10**|📚 객체 리터럴|
-|**CH.11**|📚 원시 값과 객체의 비교|
-|**CH.12**|📚 함수|
-|**CH.13**|📚 스코프|
-|**CH.14**|📚 전역 변수의 문제점|
+|**CH.09**|[📚 타입 변환과 단축 평가](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/09_%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98%EA%B3%BC-%EB%8B%A8%EC%B6%95%ED%8F%89%EA%B0%80.md)|
+|**CH.10**|[📚 객체 리터럴](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/10_%EA%B0%9D%EC%B2%B4-%EB%A6%AC%ED%84%B0%EB%9F%B4.md)|
+|**CH.11**|[📚 원시 값과 객체의 비교](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/11_%EC%9B%90%EC%8B%9C-%EA%B0%92%EA%B3%BC-%EA%B0%9D%EC%B2%B4%EC%9D%98-%EB%B9%84%EA%B5%90.md)|
+|**CH.12**|[📚 함수](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/12_함수.md)|
+|**CH.13**|[📚 스코프](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/13_%EC%8A%A4%EC%BD%94%ED%94%84.md)|
+|**CH.14**|[📚 전역 변수의 문제점](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/14_%EC%A0%84%EC%97%AD%EB%B3%80%EC%88%98%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90.md)|
 |**CH.15**|[📚 let, const 키워드와 블록 레벨 스코프](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/15_let%2C%20const%20키워드와%20블록%20레벨%20스코프.md)|
 |**CH.16**|📚 프로퍼티 어트리뷰트|
 |**CH.17**|📚 생성자 함수에 의한 객체 생성|
