@@ -64,7 +64,7 @@
 |**CH.16**|📚 프로퍼티 어트리뷰트|
 |**CH.17**|📚 생성자 함수에 의한 객체 생성|
 |**CH.18**|📚 함수와 일급 객체|
-|**CH.19**|📚 프로토타입|
+|**CH.19**|[📚 프로토타입](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/19_프로토타입.md)|
 |**CH.20**|📚 strict mode|
 |**CH.21**|📚 빌트인 객체|
 |**CH.22**|📚 this|
