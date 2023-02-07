@@ -61,12 +61,12 @@
 |**CH.13**|[📚 스코프](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/13_%EC%8A%A4%EC%BD%94%ED%94%84.md)|
 |**CH.14**|[📚 전역 변수의 문제점](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/14_%EC%A0%84%EC%97%AD%EB%B3%80%EC%88%98%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90.md)|
 |**CH.15**|[📚 let, const 키워드와 블록 레벨 스코프](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/15_let%2C%20const%20키워드와%20블록%20레벨%20스코프.md)|
-|**CH.16**|📚 프로퍼티 어트리뷰트|
-|**CH.17**|📚 생성자 함수에 의한 객체 생성|
-|**CH.18**|📚 함수와 일급 객체|
+|**CH.16**|[📚 프로퍼티 어트리뷰트](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/16_프로퍼티-어트리뷰트.md)|
+|**CH.17**|[📚 생성자 함수에 의한 객체 생성](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/17_%EC%83%9D%EC%84%B1%EC%9E%90-%ED%95%A8%EC%88%98%EC%97%90-%EC%9D%98%ED%95%9C-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1.md)|
+|**CH.18**|[📚 함수와 일급 객체](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/18_%ED%95%A8%EC%88%98%EC%99%80-%EC%9D%BC%EA%B8%89-%EA%B0%9D%EC%B2%B4.md)|
 |**CH.19**|[📚 프로토타입](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/19_프로토타입.md)|
-|**CH.20**|📚 strict mode|
-|**CH.21**|📚 빌트인 객체|
+|**CH.20**|[📚 strict mode](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/20_strict-mode.md)|
+|**CH.21**|[📚 빌트인 객체](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/21_빌트인-객체.md)|
 |**CH.22**|📚 this|
 |**CH.23**|📚 실행 컨텍스트|
 |**CH.24**|📚 클로저|
