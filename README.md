@@ -52,7 +52,7 @@
 |**CH.04**|[📚 변수](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/04_%EB%B3%80%EC%88%98.md)|
 |**CH.05**|[📚 표현식과 문](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/05_%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC-%EB%AC%B8.md)|
 |**CH.06**|[📚 데이터 타입](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/06_%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85.md)|
-|**CH.07**|📚 연산자|
+|**CH.07**|[📚 연산자](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/07_%EC%97%B0%EC%82%B0%EC%9E%90.md)|
 |**CH.08**|[📚 제어문](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/08_제어문.md)|
 |**CH.09**|[📚 타입 변환과 단축 평가](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/09_%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98%EA%B3%BC-%EB%8B%A8%EC%B6%95%ED%8F%89%EA%B0%80.md)|
 |**CH.10**|[📚 객체 리터럴](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/10_%EA%B0%9D%EC%B2%B4-%EB%A6%AC%ED%84%B0%EB%9F%B4.md)|
@@ -61,12 +61,12 @@
 |**CH.13**|[📚 스코프](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/13_%EC%8A%A4%EC%BD%94%ED%94%84.md)|
 |**CH.14**|[📚 전역 변수의 문제점](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/14_%EC%A0%84%EC%97%AD%EB%B3%80%EC%88%98%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90.md)|
 |**CH.15**|[📚 let, const 키워드와 블록 레벨 스코프](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/15_let%2C%20const%20키워드와%20블록%20레벨%20스코프.md)|
-|**CH.16**|📚 프로퍼티 어트리뷰트|
-|**CH.17**|📚 생성자 함수에 의한 객체 생성|
-|**CH.18**|📚 함수와 일급 객체|
-|**CH.19**|📚 프로토타입|
-|**CH.20**|📚 strict mode|
-|**CH.21**|📚 빌트인 객체|
+|**CH.16**|[📚 프로퍼티 어트리뷰트](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/16_프로퍼티-어트리뷰트.md)|
+|**CH.17**|[📚 생성자 함수에 의한 객체 생성](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/17_%EC%83%9D%EC%84%B1%EC%9E%90-%ED%95%A8%EC%88%98%EC%97%90-%EC%9D%98%ED%95%9C-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1.md)|
+|**CH.18**|[📚 함수와 일급 객체](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/18_%ED%95%A8%EC%88%98%EC%99%80-%EC%9D%BC%EA%B8%89-%EA%B0%9D%EC%B2%B4.md)|
+|**CH.19**|[📚 프로토타입](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/19_프로토타입.md)|
+|**CH.20**|[📚 strict mode](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/20_strict-mode.md)|
+|**CH.21**|[📚 빌트인 객체](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/21_빌트인-객체.md)|
 |**CH.22**|📚 this|
 |**CH.23**|📚 실행 컨텍스트|
 |**CH.24**|📚 클로저|
