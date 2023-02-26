@@ -4,6 +4,7 @@
 **`Set` 객체는 중복되지 않는 유일한 값들의 집합이다.**   
 
 - 배열과 `Set`의 차이
+
 **구분**|**배열**|**`Set` 객체**
 :---:|:---|:---:
 동일한 값을 중복하여 포함할 수 있다.|O|X
@@ -409,7 +410,7 @@ console.log(setB.isSuperset(setA)); // false
 요소 개수 확인|`Object.keys(obj).length`|`map.size`
 
 ### ▶️ `Map` 객체의 생성
-`Map` 객체는 `Map` 생성자 함수르 생성한다.   
+`Map` 객체는 `Map` 생성자 함수로 생성한다.   
 `Map` 생성자 함수에 인수를 전달하지 않을 경우 빈 `Map` 객체가 생성된다.   
 ```js
 const map = new Map();
@@ -425,8 +426,7 @@ console.log(map1); // Map(2) {"key1" => "value1", "key2" => "value2"}
 
 const map2 = new Map([1, 2]); // TypeError: Iterator value 1 is not an entry object
 ```
-※ `Map` 생성자 함수의 인수로 전달한 이터러블에 **중복된 키**를 가지는 요소가 존재할 경우,   
-&nbsp;값이 덮어써진다.   
+※ `Map` 생성자 함수의 인수로 전달한 이터러블에 **중복된 키**를 가지는 요소가 존재할 경우, 값이 덮어씌워진다.     
 → `Map` 객체에는 중복된 키를 가지는 요소가 존재할 수 없다.   
 
 ### ▶️ `size` : 요소 개수 확인
