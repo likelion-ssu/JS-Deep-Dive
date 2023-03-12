@@ -77,7 +77,7 @@
 |**CH.29**|📚 Math|
 |**CH.30**|📚 Date|
 |**CH.31**|📚 RegExp|
-|**CH.32**|📚 String|
+|**CH.32**|[📚 String](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/32_String.md)|
 |**CH.33**|📚 7번째 데이터 타입 Symbol|
 |**CH.34**|📚 이터러블|
 |**CH.35**|📚 스프레드 문법|
