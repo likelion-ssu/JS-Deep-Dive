@@ -202,7 +202,7 @@ Ajax는 서버로부터 웹페이지의 변굥에 필요한 데이터만 비동�
 
 <br/>
 
-## XMLHttpRequest
+## 📌 43.3 XMLHttpRequest
 
 - 브라우저는 주소창이나 HTML의 `form` 태그 또는 `a` 태그를 통해 HTTP 요청 전송 기능을 기본 제공한다.
 - 자바스크립트를 사용하여 HTTP 요청을 전송하려면 `XMLHttpRequest` 객체를 사용한다.
