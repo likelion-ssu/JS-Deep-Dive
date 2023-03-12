@@ -2,7 +2,7 @@
 
 ## 📌 43.1 Ajax란?
 
-Ajax란 자바스크립트를 사용하여 브라우저가 서버에게 **비동기 방식으로 데이터를 요청** 하고, 서버가 응답한 데이터를 수신하여 **웹페이지를 동적으로 갱신** 하는 프로그래밍 방식이다.
+Ajax(Asynchronous JavaScript and XML)란 자바스크립트를 사용하여 브라우저가 서버에게 **비동기 방식으로 데이터를 요청** 하고, 서버가 응답한 데이터를 수신하여 **웹페이지를 동적으로 갱신** 하는 프로그래밍 방식이다.
 
 - 브라우저에서 제공하는 Web API인 `XMLHttpRequest` 객체를 기반으로 동작한다.  
   `XMLHttpRequest`는 HTTP 비동기 통신을 위한 메서드와 프로퍼티를 제공한다.
@@ -19,6 +19,8 @@ Ajax란 자바스크립트를 사용하여 브라우저가 서버에게 **비동
 - 클라이언트와 서버와의 통신이 동기 방식으로 동작하기 때문에 서버로부터 응답이 있을 때까지 다음 처리는 **블로킹** 된다.
 
 ### Ajax
+
+Ajax는 서버로부터 웹페이지의 변굥에 필요한 데이터만 비동기 방식으로 전송받고 부분적으로 렌더링한다.
 
 **Ajax의 장점**
 
@@ -206,8 +208,6 @@ Ajax란 자바스크립트를 사용하여 브라우저가 서버에게 **비동
 - 자바스크립트를 사용하여 HTTP 요청을 전송하려면 `XMLHttpRequest` 객체를 사용한다.
 - Web API인 `XMLHttpRequest` 객체는 HTTP 요청 전송과 HTTP 응답 수신을 위한 다양한 메서드와 프로퍼티를 제공한다.
 
-<br/>
-
 ### XMLHttpRequest 객체 생성
 
 `XMLHttpRequest` 객체는 `XMLHttpReqeust` 생성자 함수를 호출하여 생성한다.  
@@ -218,11 +218,11 @@ _(브라우저에서 제공하는 Web API이므로 브라우저 환경에서만 
 const xhr = new XMLHttpRequest();
 ```
 
+<br/>
+
 ### XMLHttpReqeust 객체의 프로퍼티와 메서드
 
 XMLHttpReqeust 객체는 다양한 프로퍼티와 메서드를 제공한다.
-
-<br/>
 
 #### XMLHttpReqeust 객체의 프로토타입 프로퍼티
 
@@ -258,8 +258,6 @@ XMLHttpReqeust 객체는 다양한 프로퍼티와 메서드를 제공한다.
   </tr>
 </table>
 
-<br/>
-
 #### XMLHttpReqeust 객체의 이벤트 핸들러 프로퍼티
 
 <!-- prettier-ignore -->
@@ -290,8 +288,6 @@ XMLHttpReqeust 객체는 다양한 프로퍼티와 메서드를 제공한다.
   </tr>
 </table>
 
-<br/>
-
 #### XMLHttpReqeust 객체의 메서드
 
 <!-- prettier-ignore -->
@@ -312,8 +308,6 @@ XMLHttpReqeust 객체는 다양한 프로퍼티와 메서드를 제공한다.
     <th>getResponseHeader</th><td>특정 HTTP 요청 헤더의 값을 문자열로 반환</td>
   </tr>
 </table>
-
-<br/>
 
 #### XMLHttpReqeust 객체의 정적 프로퍼티
 
@@ -360,8 +354,6 @@ xhr.setRequestHeader('content-type', 'application/json');
 // HTTP 요청 전송
 xhr.send();
 ```
-
-<br/>
 
 #### XMLHttpReqeust.prototype.open
 
@@ -431,8 +423,6 @@ xhr.open(method, url[, async])
     <td>X</td>
   </tr>
 </table>
-
-<br/>
 
 #### XMLHttpReqeust.prototype.send
 
