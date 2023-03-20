@@ -209,7 +209,8 @@ Array.prototype[Symbol.for("sum")] = function () {
 
 자바스크립트가 기본 제공하는 빌트인 심벌 값이 있다. 빌트인 심벌 값은 `Symbol` 함수의 프로퍼티에 할당되어 있다.
 
-<img width="756" alt="image" src="https://user-images.githubusercontent.com/87116017/221399044-d84e9833-479f-4c3c-8818-e0d20ea2c05a.png">_Symbol 함수의 프로퍼티_
+<img width="756" alt="image" src="https://user-images.githubusercontent.com/87116017/221399044-d84e9833-479f-4c3c-8818-e0d20ea2c05a.png">  
+_Symbol 함수의 프로퍼티_
 
 빌트인 심벌 값을 **Well-known Symbol**이라 부르는데 이는 자바스크립트 엔진의 내부 알고리즘에 사용된다. <br>
 예를들어 `Array`, `String`, `Map`, `Set`, `TypedArray등` `for ... of` 문으로 순회 가능한 빌트인 이터러블은 Well-known Symbol인 `Symbol.iterator`를 키로 갖는 메서드를 가진다. `Symbol.iterator` 메서드를 호출하면 이터레이터를 반환하도록 하는 **이터레이션 프로토콜**을 준수한다..
