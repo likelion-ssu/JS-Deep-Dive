@@ -56,7 +56,7 @@ Ajax는 서버로부터 웹페이지의 변경에 필요한 데이터만 비동�
 - 클라이언트가 서버로 객체를 전송하려면 객체를 문자열화해야 하는데 이를 직렬화(serializing)라 한다.
 
   <details>
-    <summary>`JSON.stringfy`의 객체 직렬화</summary>
+    <summary>JSON.stringfy의 객체 직렬화</summary>
 
   ```js
   const obj = {
@@ -110,7 +110,7 @@ Ajax는 서버로부터 웹페이지의 변경에 필요한 데이터만 비동�
   </details>
 
   <details>
-    <summary>`JSON.stringfy`의 배열 직렬화</summary>
+    <summary>JSON.stringfy의 배열 직렬화</summary>
 
   ```js
   const todos = [
@@ -152,7 +152,7 @@ Ajax는 서버로부터 웹페이지의 변경에 필요한 데이터만 비동�
 - JSON 배열의 요소가 객체인 경우 배열의 요소까지 객체로 변환한다.
 
   <details>
-    <summary>`JSON.parse`의 객체 역직렬화</summary>
+    <summary>JSON.parse의 객체 역직렬화</summary>
 
   ```js
   const obj = {
@@ -174,7 +174,7 @@ Ajax는 서버로부터 웹페이지의 변경에 필요한 데이터만 비동�
   </details>
 
   <details>
-    <summary>`JSON.parse`의 배열 역직렬화</summary>
+    <summary>JSON.parse의 배열 역직렬화</summary>
 
   ```js
   const todos = [
