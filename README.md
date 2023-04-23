@@ -88,7 +88,7 @@
 |**CH.40**|📚 이벤트|
 |**CH.41**|📚 타이머|
 |**CH.42**|📚 비동기 프로그래밍|
-|**CH.43**|📚 Ajax|
+|**CH.43**|[📚 Ajax](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/43_Ajax.md)|
 |**CH.44**|📚 Rest API|
 |**CH.45**|📚 프로미스|
 |**CH.46**|📚 제너레이터와 async/await|
