@@ -93,5 +93,5 @@
 |**CH.45**|📚 프로미스|
 |**CH.46**|📚 제너레이터와 async/await|
 |**CH.47**|📚 에러 처리|
-|**CH.48**|📚 모듈|
+|**CH.48**|[📚 모듈](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/48_모듈.md)|
 |**CH.49**|📚 Babel과 Webpack을 이용한 ES6+/ES.NEXT 개발 환경 구축|
