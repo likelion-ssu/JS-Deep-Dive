@@ -67,29 +67,29 @@
 |**CH.19**|[📚 프로토타입](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/19_프로토타입.md)|
 |**CH.20**|[📚 strict mode](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/20_strict-mode.md)|
 |**CH.21**|[📚 빌트인 객체](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/21_빌트인-객체.md)|
-|**CH.22**|📚 this|
-|**CH.23**|📚 실행 컨텍스트|
-|**CH.24**|📚 클로저|
+|**CH.22**|[📚 this](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/22_this.md)|
+|**CH.23**|[📚 실행 컨텍스트](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/23_%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)|
+|**CH.24**|[📚 클로저](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/24_%ED%81%B4%EB%A1%9C%EC%A0%80.md)|
 |**CH.25**|[📚 클래스](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/25_클래스.md)|
-|**CH.26**|📚 ES6 함수의 추가 기능|
-|**CH.27**|📚 배열|
-|**CH.28**|📚 Number|
-|**CH.29**|📚 Math|
-|**CH.30**|📚 Date|
-|**CH.31**|📚 RegExp|
+|**CH.26**|[📚 ES6 함수의 추가 기능](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/26_ES6-%ED%95%A8%EC%88%98%EC%9D%98-%EC%B6%94%EA%B0%80-%EA%B8%B0%EB%8A%A5.md)|
+|**CH.27**|[📚 배열](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/27_%E1%84%87%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%AF.md)|
+|**CH.28**|[📚 Number](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/28_Number.md)|
+|**CH.29**|[📚 Math](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/29_Math.md)|
+|**CH.30**|[📚 Date](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/30_Date.md)|
+|**CH.31**|[📚 RegExp](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/31_RegExp.md)|
 |**CH.32**|[📚 String](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/32_String.md)|
-|**CH.33**|📚 7번째 데이터 타입 Symbol|
+|**CH.33**|[📚 7번째 데이터 타입 Symbol](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/33_7%EB%B2%88%EC%A7%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85-Symbol.md)|
 |**CH.34**|📚 이터러블|
-|**CH.35**|📚 스프레드 문법|
+|**CH.35**|[📚 스프레드 문법](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/35_%EC%8A%A4%ED%94%84%EB%A0%88%EB%93%9C-%EB%AC%B8%EB%B2%95.md)|
 |**CH.36**|📚 디스트럭처링 할당|
-|**CH.37**|📚 Set과 Map|
-|**CH.38**|📚 브라우저의 렌더링 과정|
+|**CH.37**|[📚 Set과 Map](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/37_Set%EA%B3%BC-Map.md)|
+|**CH.38**|[📚 브라우저의 렌더링 과정](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/38_%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EB%A0%8C%EB%8D%94%EB%A7%81-%EA%B3%BC%EC%A0%95.md)|
 |**CH.39**|📚 DOM|
 |**CH.40**|📚 이벤트|
 |**CH.41**|📚 타이머|
-|**CH.42**|📚 비동기 프로그래밍|
+|**CH.42**|[📚 비동기 프로그래밍](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/42_%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)|
 |**CH.43**|[📚 Ajax](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/43_Ajax.md)|
-|**CH.44**|📚 Rest API|
+|**CH.44**|[📚 Rest API](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/44_REST-API.md)|
 |**CH.45**|📚 프로미스|
 |**CH.46**|📚 제너레이터와 async/await|
 |**CH.47**|📚 에러 처리|
