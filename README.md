@@ -79,19 +79,19 @@
 |**CH.31**|[📚 RegExp](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/31_RegExp.md)|
 |**CH.32**|[📚 String](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/32_String.md)|
 |**CH.33**|[📚 7번째 데이터 타입 Symbol](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/33_7%EB%B2%88%EC%A7%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85-Symbol.md)|
-|**CH.34**|📚 이터러블|
+|**CH.34**|[📚 이터러블](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/34_%EC%9D%B4%ED%84%B0%EB%9F%AC%EB%B8%94.md)|
 |**CH.35**|[📚 스프레드 문법](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/35_%EC%8A%A4%ED%94%84%EB%A0%88%EB%93%9C-%EB%AC%B8%EB%B2%95.md)|
-|**CH.36**|📚 디스트럭처링 할당|
+|**CH.36**|[📚 디스트럭처링 할당](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/36_%E1%84%83%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%85%E1%85%A5%E1%86%A8%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC-%E1%84%92%E1%85%A1%E1%86%AF%E1%84%83%E1%85%A1%E1%86%BC.md)|
 |**CH.37**|[📚 Set과 Map](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/37_Set%EA%B3%BC-Map.md)|
 |**CH.38**|[📚 브라우저의 렌더링 과정](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/38_%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EB%A0%8C%EB%8D%94%EB%A7%81-%EA%B3%BC%EC%A0%95.md)|
 |**CH.39**|📚 DOM|
 |**CH.40**|📚 이벤트|
-|**CH.41**|📚 타이머|
+|**CH.41**|[📚 타이머](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/41_%ED%83%80%EC%9D%B4%EB%A8%B8.md)|
 |**CH.42**|[📚 비동기 프로그래밍](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/42_%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)|
 |**CH.43**|[📚 Ajax](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/43_Ajax.md)|
 |**CH.44**|[📚 Rest API](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/44_REST-API.md)|
 |**CH.45**|📚 프로미스|
 |**CH.46**|📚 제너레이터와 async/await|
-|**CH.47**|📚 에러 처리|
+|**CH.47**|[📚 에러 처리](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/47_%EC%97%90%EB%9F%AC-%EC%B2%98%EB%A6%AC.md)|
 |**CH.48**|[📚 모듈](https://github.com/likelion-ssu/JS-Deep-Dive/blob/main/JS%20Deep%20Dive%20cheat-sheet/48_모듈.md)|
 |**CH.49**|📚 Babel과 Webpack을 이용한 ES6+/ES.NEXT 개발 환경 구축|
