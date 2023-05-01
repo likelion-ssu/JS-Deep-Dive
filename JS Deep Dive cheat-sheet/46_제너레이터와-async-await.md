@@ -74,9 +74,9 @@ console.log(Symbol.iterator in generator); // true
 // 이터레이터는 next 메서드를 갖는다.
 console.log('next' in generator); // true
 ```
-제너레이터 객체는 next 메서드를 갖는 이터레이터지만, 이터레이터에는 없는 return, throw 메서드를 갖는다. 제너레이터 객체의 세 개의 메서드를 호출하면 다음과 같이 동작한다.
-- next 메서드를 호출하면 제너레이터 함수의 yield 표현식까지 코드 블록을 실행하고 yield된 값을 value 프로퍼티 값으로, false룰 done 프로퍼티 값으로 갖는 이터레이터 리절트 객체를 반환한다.
-- reuturn 메서드를 호출하면 인수로 전달받은 값을 value 프로퍼티 값으로, true를 done 프로퍼티 값으 갖는 이터레이터 리절트 객체를 반환한다.
+제너레이터 객체는 `next` 메서드를 갖는 이터레이터지만, 이터레이터에는 없는 `return`, `throw` 메서드를 갖는다. 제너레이터 객체의 세 개의 메서드를 호출하면 다음과 같이 동작한다.
+- `next` 메서드를 호출하면 제너레이터 함수의 `yield` 표현식까지 코드 블록을 실행하고 `yield`된 값을 `value` 프로퍼티 값으로, `false`를 `done` 프로퍼티 값으로 갖는 `이터레이터 리절트 객체`를 반환한다.
+- `reuturn` 메서드를 호출하면 인수로 전달받은 값을 `value` 프로퍼티 값으로, `true`를 `done` 프로퍼티 값으로 갖는 `이터레이터 리절트 객체`를 반환한다.
     <details>
     <summary>예제 코드</summary>
 
