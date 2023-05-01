@@ -278,10 +278,10 @@ co(function* fetchTodo() {
 </details>
 
 ## 📌 46.6 async/await
-제너레이터를 이용하여 비동기를 동기처럼 구현했지만 이로 인해 생긴 장황해진 코드와 나빠진 가독성을 해결하기 위해 async/await가 도입됐다.
+제너레이터를 이용하여 비동기를 동기처럼 구현했지만 이로 인해 생긴 장황해진 코드와 나빠진 가독성을 해결하기 위해 `async`/`await`가 도입됐다.
 
-async/await는 프로미스를 기반으로 동작한다.  
-async/await를 사용하면 프로미스의 then/catch/finally 후속 처리 메서드에 콜백 함수를 전달해서 비동기 처리 결과를 후속 처리할 필요 없이 마치 동기 처리처럼 프로미스를 사용할 수 있다.  
+`async`/`await`는 프로미스를 기반으로 동작한다.  
+`async`/`await`를 사용하면 프로미스의 `then`/`catch`/`finally` 후속 처리 메서드에 콜백 함수를 전달해서 비동기 처리 결과를 후속 처리할 필요 없이 마치 동기 처리처럼 프로미스를 사용할 수 있다.  
 ```js
 const fetch = require('node-fetch');
 
